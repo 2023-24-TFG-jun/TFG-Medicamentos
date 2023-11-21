@@ -6,3 +6,7 @@ Día 14 de Noviembre de 2023:
 
 Día 15 de Noviembre de 2023:
   - Empiezo a investigar sobre los medicamentos y los principios activos para obtener información.
+
+Día 21 de Noviembre de 2023:
+  - Sigo con la investigación y obtención de datos de medicamentos.
+  - Avance algo superior a los anteriores.
