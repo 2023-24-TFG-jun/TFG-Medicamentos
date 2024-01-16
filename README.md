@@ -15,3 +15,10 @@ Día 23 de Noviembre de 2023:
   - Segunda toma de contacto con los principios activos.
   - Entendimiento en la manera que se clasifican.
   - Unas cuantas dudas sobre el siguiente paso a tomar y preguntas sobre como avanzar.
+
+Día 16 de Enero de 2024:
+  - Retomamos el proyecto.
+  - Hacemos una idea general de en que va a consistir la primera fase del proyecto y la segunda, pero el foco principal esta
+    en la priemera fase. La segunda fase simplemente es el cambio o transición a realizar en un futuro en el funcionamiento.
+  - Planteamos dudas e idea principal de como hay que elaborar el proyecto, idea ¿muy general?
+  - Pendiente reunirme con Jose Manuel para tratar los temas.
