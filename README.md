@@ -22,3 +22,8 @@ Día 16 de Enero de 2024:
     en la priemera fase. La segunda fase simplemente es el cambio o transición a realizar en un futuro en el funcionamiento.
   - Planteamos dudas e idea principal de como hay que elaborar el proyecto, idea ¿muy general?
   - Pendiente reunirme con Jose Manuel para tratar los temas.
+
+Día 24 de Enero de 2024:
+  - Despues de un par de reuniones con José Manuel, me organizo el inicio del apartado de la BBDD.
+  - Servior en local, MySQL, ...
+  - Empezamos a crear un fichero (dump) para la creación de la tablas de la BBDD y los datos.
